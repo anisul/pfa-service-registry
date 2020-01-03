@@ -72,3 +72,9 @@ out/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/.idea/.gitignore
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
